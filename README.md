@@ -7,9 +7,9 @@
 [My favourite shade of yellow](https://www.eggradients.com/color/jasmine-color)
 ### 2. As a Media student I love movies!
 **Here is some of my favourite**
-* The Quiet Place
-* The Chongking Express
-* Columbus
+* *The Quiet Place*
+* *The Chongking Express*
+* *Columbus*
 
 ### 3.My horoscope is *Sagittarius* ♐
 [Learn more about Sagittarius traits](https://www.allure.com/story/sagittarius-zodiac-sign-personality-traits)
