@@ -3,8 +3,8 @@
 
 * My favourite colour is yellow
 * As a media student I love movies
-  1.The quiet place
-  2.The Chongking express
-  3.Columbus
+  1. The quiet place
+  2. The Chongking express
+  3. Columbus
 
 * My horoscope is saggitaurius
