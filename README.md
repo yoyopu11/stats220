@@ -1,7 +1,9 @@
 # Welcome to Yoyo's repo 
-## This is going to be about facts about myself
+## This repo is going to be facts about myself!! As part of my STATS220 Project 1!!
 
 ### 1. My favourite colour is yellow
+**Jasmine yellow**
+
 ![yellow](https://assets-global.website-files.com/5a9423a3f702750001758d4f/60eeb1ef164b2d4b0ed82210_%23F8DE7E%20(1).png)
 
 [My favourite shade of yellow](https://www.eggradients.com/color/jasmine-color)
