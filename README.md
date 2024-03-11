@@ -14,4 +14,5 @@
 * *Columbus*
 
 ### 3.My horoscope is *Sagittarius* ♐
+![](https://static.toiimg.com/thumb/msid-107724742,width-1280,height-720,resizemode-4/107724742.jpg)
 [Learn more about Sagittarius traits](https://www.allure.com/story/sagittarius-zodiac-sign-personality-traits)
